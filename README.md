@@ -49,11 +49,6 @@ style.css
     python app.py
     ```
 
-4. **Open your browser and navigate to**:
-    ```
-    http://127.0.0.1:5000/
-    ```
-
 ## File Descriptions
 
 - **app.py**: The Flask backend that handles API requests and responses.
